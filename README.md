@@ -1,3 +1,3 @@
-#ECGL 
+<h1>ECGL(Easy Custom Graphics Library</h1>
 
-an easy 2d custom graphics library to render graphics
+An Easy 2d Custom Graphics Library API to render 2d graphics
